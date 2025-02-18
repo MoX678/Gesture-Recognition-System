@@ -1,0 +1,27 @@
+{
+    "actions": [
+        "Open Menu",
+        "Close Menu",
+        "Next",
+        "Previous"
+    ],
+    "mappings": {
+        "Swipe Left": "Close Menu",
+        "Swipe Right": "Previous",
+        "Tap": "Open Menu",
+        "Double Tap": "Close Menu"
+    },
+    "modes": {
+        "Volume Control": 1,
+        "Scroll Page": 0,
+        "Cursor Mode": 1
+    },
+    "hotkey": "g",
+    "gesture_settings": {
+        "swipe_sensitivity": 0.5,
+        "pinch_threshold": 0.7,
+        "gesture_timeout": 1.5,
+        "enable_feedback": 1,
+        "custom_gestures": {}
+    }
+}
